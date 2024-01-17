@@ -24,7 +24,7 @@ https://www.npmjs.com/package/zeromq
 
 
 - <b>https://www.npmjs.com/package/p-limit</b>
-- <b></b>
+- <b>https://www.npmjs.com/package/p-map</b>
 - <b></b>
 - <b></b>
 - <b></b>
